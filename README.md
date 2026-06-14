@@ -1,0 +1,1 @@
+# cookpot-privacy
